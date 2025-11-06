@@ -77,11 +77,4 @@ ghs_parser/
 - `numpy`
 - `PyMuPDF`
 
----
 
-
----
-
-### 💡 Лицензия
-
-MIT License © 2025
